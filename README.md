@@ -1,12 +1,12 @@
 # FaceRecognitionApplication
-An android application for real time face recognition
+An android application for real time face recognition, an application of Computer Vision.
 
 The images of the people to be recognized are saved in the internal storage of the device. Using those images the people are classified.
 
 ## Tech Stack Used
 - Android (Kotlin)
 - ML Kit
-- TensorflowLite
+- TensorflowLite (CV Algorithm Implemented)
 
 ## Working
 - PREREQUISITE: Download the "Images" folder in your android device and store it in the internal storage

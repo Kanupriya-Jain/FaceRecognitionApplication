@@ -19,3 +19,7 @@ model and get the embeddings. Now, we create a `HashMap<String,FloatArray>` obje
 the sub directories as keys and the embeddings as their corresponding values. 
 
 This entire procedure is carried out only on the app's startup. The steps below will execute on each camera frame.
+
+##Implementation
+
+![image](https://user-images.githubusercontent.com/81557355/207809017-c0374895-3d05-48fe-bde0-ac10eafdd31c.png)
